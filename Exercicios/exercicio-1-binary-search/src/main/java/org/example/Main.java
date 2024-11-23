@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         int[] v = {0,2,3,5,9,11,15,19,20,21};
-        System.out.println("O indice encontrado foi: " + binarySearch(v,7));
+        System.out.println("O indice encontrado foi: " + binarySearch(v,19));
 
     }
 
