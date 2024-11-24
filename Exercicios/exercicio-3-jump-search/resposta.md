@@ -1,6 +1,6 @@
 1 - o código se encontra em src/main/java/org.example  
 O tamanho ideal de saltos para uma lista de tamanho n seria:
-salto = sqrt(n)  
+salto = $\sqrt{n}$  
 
 
 
