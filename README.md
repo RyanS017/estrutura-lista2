@@ -1,3 +1,3 @@
 # estrutura-lista2
 
-As respostas estão nas respectivas pastas do exercícios no aequivo "resposta.md"
+As respostas estão nas respectivas pastas do exercícios no arquivo "resposta.md"
